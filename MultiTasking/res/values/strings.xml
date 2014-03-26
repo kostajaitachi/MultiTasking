@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiTasking</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint">Enter The Task</string>
+    <string name="unsaved_changes_title">Are You sure ?</string>
+    <string name="unsaved_changes_message">Do You Really want to do this ?</string>
+    <string name="discard">Discard</string>
+    <string name="no_tasks">Nothing to Do</string>
+    <string name="remove">Remove Completed Tasks</string>
+    
+
+</resources>
